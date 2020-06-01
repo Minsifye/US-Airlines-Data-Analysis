@@ -18,12 +18,11 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 This repository is created for my own work in Innovation Analytics Class at UNC Charlotte. 
 
-1. Data analysis for US airlines in domestic market. Performing tasks like text clustering, categorization, sentiment analysis.
+Data analysis for US airlines in domestic market. Performing tasks like text clustering, categorization, sentiment analysis.
 
 
 ## Results<a name="results"></a>
-In progress
-
+This analysis showed that Customer Service has the maximum potential to improve overall customer experience. 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
